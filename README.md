@@ -1,4 +1,5 @@
 Klavye Dinleyici
+Video linki = https://www.youtube.com/watch?v=_N2NYpYlCyM
 ⚠️ **Önemli:** Bu proje yalnızca eğitim ve araştırma amaçlıdır. İzinsiz klavye girdisi kaydetmek yasadışıdır ve ciddi sonuçlar doğurur.
 
 📌 Açıklama
